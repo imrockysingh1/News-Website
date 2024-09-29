@@ -1,0 +1,267 @@
+
+    {
+        "status": "ok",
+        "totalResults": 37,
+        "articles": [
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "The Wall Street Journal",
+                "title": "Cooling July Inflation Sets Stage for Fed’s September Rate Cut - The Wall Street Journal",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT1R2UTZNSGJ1c3lTR1FXZVpoS0dvT1Z6cFdZZ0YxWjhTRVdWVFlveE54SmlDd1pjcDFJUVk3aGc4SlVNSW96aWtxMzUwU3Vac0dscTNzYjlPQ1hTcmozVkVHUjhTSnlQYUFnbU9IcEczS2dYek5LVnZ1M3A5dzc4VVhUb19vbFUwYU1qaHBoWjExR2dVazA4?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T13:59:00Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "The New York Times",
+                "title": "After Juan Soto homers 3 times, Aaron Judge praises 'the greatest hitter in the game' - The New York Times",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUl9HTGhEZ0IzSXNUQ0V4d2R3ZnZTQW4tYkRmUzMwcFQ3T01oZk56dHIzeWN0OWhMdTlIVXNBWDVTY3VHRkJ3aUM1aHNjTmVlWHNoajVZRzAwX29qYWJYa2FqaFFKckRhSl9sclZNRVZ5N3FnM1lWRVh6Um1oWUp5UTdiRWlXY0RuRmc4?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T13:41:21Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "Financial Times",
+                "title": "Ukraine launches war’s ‘largest’ drone attack on Russian airfields - Financial Times",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhOXdHNzRsTkw1Nkx3UjVtZXBYeVl6bVczUFBDWWJ5SDRYc3BGbjB0T3c2RHZ3dllXZF9hemhvSzJZdTNSdDVJSzBSODRLM2dpbUlGam1fYVVDTE4xMjFkS0JRWHhSQVdkcmM5RC1TSWY?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T13:23:32Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "The Associated Press",
+                "title": "The Taliban are celebrating 3 years in power, but they’re not talking about Afghans - The Associated Press",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnprRWlNMnNaVWptNS1HZVFDdTZFS1BaRlBZSmtLVkZ5TTVibERtRGNWdW1ZQ18wYXViOGNZRjlWRjJOTEtMd24tYWhrN3ZmZFJ3XzVESVBhUXBOeXh1cVhOc3IzNjA0a3FyWXZtS3JfWGR2OUlFTVdzdUdsZUlJX09YNW5TU2NBWGliajU5WVhURTFxbTBWbFFjSGFvNElIMDZxSFZ3?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T13:18:00Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "The Washington Post",
+                "title": "Feeling old? Your molecules change rapidly around ages 44 and 60, study says. - The Washington Post",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGdIMFEtREVlNTZvSng1TDd1YTJ3aTdOSjcwTjRaUnNpMjFfZm5uZF9JSHoyQ2N5VFlRUlVTZ1hoenp1RndVdnFnVXpPWXdxbmFMZnBZY056TDNNS2pWSWpxZ3RPSGZraGM3X0V4cTBQYjVodlgwY0tVZjQ1MWNZNWF0SHQ?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T12:45:08Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "VideoCardz.com",
+                "title": "AMD set to boost TDP for Ryzen 5 9600X and Ryzen 7 9700X to 105W with upcoming AGESA update - VideoCardz.com",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWTZSZVhBNzNLdWdOTlFGSVZMR2VLUm9KY3hfRFIzamxfd0twQjdTcWR5dmZLdjJTMDJCU0drYnF2NXdRY3pWMm95c3NFSkpOQUFQRUJvWldTVU1YZWY0U3hVWFo1M0RlcDRZSXpGLWNxUnJaaGE5RWVXUmtEaEpPY001ZnZXNFNGRmZ3ci1maGl5SGxDdW13ZjBQUGl4YkZIeE4zZEpyT2ZDaHRCbDRoeDlzbFFRcjQ0XzQ4?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T12:43:00Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "Tom's Guide",
+                "title": "5 ways Google Pixel 9 Pro Fold beats Samsung's Galaxy Z Fold 6 - Tom's Guide",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQUNkRXl6Wl81aFRwb3EwRWpWeWpGUnBxaXh3VEVaLWtsTUxDYnRGMEdKeURCTGEySllLS2hlUUhyaWtQek5ReGpSeHNLcU42X0ExZy0xX2NrS3FUWjRNaXY5VlcxWGtDaU51T3ZjOTdBUkhTVmZfR1hnOWFJWjdsMTMyMWxCV1ltZkhLeDQzUmtwQUlNTm04Ymc5ZjJibHlGYXZ2YjFJbzVtQWN3?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T12:35:20Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "CBS News",
+                "title": "Maps show Tropical Storm Ernesto's path and forecast as it passes north of Puerto Rico - CBS News",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHhGWmVkRHBmNW5jajZEY2RXTkdHQmw2LTRzWlUzREI0czNmLUlNS1YxWTNaUmNjTnpqdmsySm5INExpcU85bGJOMTR5Nzd3TFVoOTVvamNKeUJ3cVFuWlZqbEJmZ0R2anBBRFVxUXRaNjBGWGNSeDdDYWxoSUkxdkFHV2xfQVVxTDAwN2w2UkhGZlE5N0FJWllZNW5OVlN4U0IxVEREMkFhZVY0VjF2T2Jjb2lGUdIBuwFBVV95cUxPbUEtdE43eV8zdzNaT1FIcl9KZXNMWFdta0FReWQ2OUpkQmloeWJ4SE1LbTFtSDVTdHJnb2NDZERDbDBkMkRYNDgtLVZQV3JpcF96N0pQUVcybmcwLThKZDdxTXlERWJPVzFrbW5VemlpMnNMUTFxdE4yWlZIZmFFaENmYWNWWXRhOGlqV0VLZjduT2lsYUg0TGs0T0FWdWVnSFVHRjR3MUF4cGFpZDRuamstUnZLcGVWS3FJ?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T12:34:38Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "ABC News",
+                "title": "Mars, maker of M&M's and Snickers, to buy Cheez-It owner Kellanova for nearly $30 billion - ABC News",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTXh4b2ZweTg5Z3h5N3pjUDc1aWtHS3AwSUUtcmJ0Vk5EWTkteWFEby1hZTFIUnhURUdHaWI0RmU1QUdadlZiTU5lRVE1dG45elNHX0ZjZ0ZWbmVKWFByZURYRG5JOW9EMm1iWHg0em9rLTNFNk5jU21UenNtV0dLdkRXOHRQdlk5aHQxSnBrUlZNdTd6dEM5ZlRTUdIBoAFBVV95cUxOaG0tOTF0LXFZMGNjLXIyZ2NraGM1aDFsSzdLWjdiaUlfRzc3NW1FdEFQUmtRMEx0M2c1cjNGMG9OUEV4UktSdzBtLXk1Xzh1MG9QdHdJaG4xUWNwY3FkMzlHdW56czctVEJSbExQMEhfRGVKaEllb3lUM0Y4NlFHMWY5THJRWlU5Z0Y2QVlFRDFoNl9LeFYwWFFwenh5RElW?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T12:11:15Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "The New York Times",
+                "title": "Google’s Stock Falls as the Government Weighs Breaking Up the Company - The New York Times",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcWxKZ0xLMGxrZmtHdG9xTlp6YnhzamR4cGN1Tzk1VUlCYU9ySzhERkFPQncyVFpMQ2lPQWVZbEVBMm54cEdMU1RPNkZaSlZCcVJVVk5YdGFlakZBcjRlR1BHRDNIR0xzc1BNRGZDVVhTX3dJMlJobGtsUWNtR2thX3FmbFdVanBRZDJlNGRueTBNVUk?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T12:05:25Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "The Guardian",
+                "title": "US study shows difficulty of finding lab test for long Covid: ‘The hunt will go on’ - The Guardian",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xeVdxTW5oRUVlbzlHcGo3X1dOS3Q4YmVmVV83WncyVkd2NHhHMVhURmt1WjY3WXJ5X2RRcUZaVl9FZFdsZGQ0Yi00T0JNZVNoQ1JaWnVKWGJYbl94VXMzOG80dlpxTWhzM2FheGtHSjlnYjJIdWEzOUZaYw?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T12:01:00Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "CNET",
+                "title": "I Chatted With Google's Gemini Live AI Voice Chat - CNET",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CCAiC09ZaFF4Rl9VeE53mAEB?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T12:00:32Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "Reuters",
+                "title": "Hamas to stay out of Gaza truce talks, Iran considers Israel attack - Reuters",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZjVkcnpkMkJiSGVrbXhKZ1JQRHU3MXZ2UWhhYnFMcVVhaDhXc0Z5bWZnOUF1NWZyWkZ3QzVNamNxZkx6ZnNveC0wZnVMM1MyZW5pQkRJUURKaXdTeHMwbnpqb1JRYUIydjE3eUpUNTlqZGNaNmE5WGU5LWpvTkVZR0hQV2taajZtY0RpRy1RWUp6R3RpQnVKUFVSR25hd3BSMElSSWRnTlVYdURuSFY3RVFEWDk?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T11:55:00Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "Billboard",
+                "title": "Patrick Mahomes Says Travis Kelce Finally Grew His Hair Out Thanks to Taylor Swift’s Influence - Billboard",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTk3LXFvcmZwVG9rR3RvMTNpR1FCQzFFVjlmcS14OUc1S0s5bFZEQWN0ZXE3T3o3NGxjU1RnalR6TWNMR2VUejl2SzFJX3JUU19aQ055b18wZlVORUZMbmRXTHFMVXgxYmtCV0laVnBHV0luSjNDdEtBLWtzRWVxZFJwOXdyQy12c3dhNUpHamJuUkhqRWswUHVraTN5YTN1YkRRZFFnWFI1ZUVrZXFYbE04VQ?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T11:53:21Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "DW (English)",
+                "title": "Mpox outbreak declared a public health emergency in Africa - DW (English)",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNME43RFp0c3FlOVZsSEFjaS1fTmFlaF8wWGxUaENiMXVhQmVJbEIyUWFSX3cyQ2UtX0JjaEhQb1k3d0VwN2dTdEgxVFZXZVNOSHhUeE1qOVVXVXY1aUxydldmaG9mQnNjcGdaZnZYMVhqZnNWNDR2WWljX252ZWFrTmhLQTlTNWx2Q2FZejZxazZibG1Ea1HSAZYBQVVfeXFMT0hHWlVhNjFOYjdud0hZV3lQSmxlQmdJei1yaGUzVlQ4Nk9RQnltdVRNT19yME1CM3lTMHNvR3lEWWVUTzVYTVRRRGcwMndId1hLZkZUcVFUMmdjTmhqTkgwN1JsanR6Z1YwM2poSWJ0eG0yRUxRMlRZWTNPTm5haEFjQjdKcUE4SzRzVHZILV9iS3hRRlFn?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T11:46:39Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "Yahoo Finance",
+                "title": "What Chipotle CEO's move to Starbucks means for coffee giant - Yahoo Finance",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQkVlaVBKM2Z4RGJPOEktcXZWLTFEcWp5d0pBRVBBSkNtWm90amtRTmlMbWpzVjVMYzFvM0NjSEhpRXRKeWJlRWpXRUQ4cnVIdkdCV0xiLVR6OU1iWXpKTHdEUG84RFBfQnRvYVQxbHVwb0hNbXlkS21QVlpRbHdtejlHZlFRRTVN?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T11:30:16Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "Space.com",
+                "title": "Listen live: NASA providing update about troubled Boeing Starliner astronaut mission today - Space.com",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdHZyUTVaZWNpcWp4UTJiRVZzX1Q3SVZ0RGRyUC1PandKb2ZFd2R4ZC1nR1h4RlFJRElsVHdLbUlXaGtRZTltU0VtMGVIWnl6YzRTSm1yQVZibXJQUm1fWjFzaVZJaUJ4dEFoSWExYjRkMDRiQ1NCbUFHNmFWcVNSRG1n?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T11:00:26Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "NBC News",
+                "title": "Study finds possible hidden ocean underneath Mars' surface - NBC News",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CCAiC0hDSHJCaW8yV1c0mAEB?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T11:00:16Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "POLITICO Europe",
+                "title": "Germany issued arrest warrant for Ukrainian over Nord Stream bombing, reports say - POLITICO Europe",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMUdQcjJzNFA2Ym9fLXdBekZZM3YzNWE2V0tNN3NwbXgyODV2YlZZbUxpQVpOTnc3WmszaElXaUYwV1NSS3pjWDFpSDhLVEJNOUFoQUdSWDd3eTZZa0pBVENMSm1hR3BaeGxBeDdlRGdBVjhpZEtsVDRjOHQ1UlRhQk1xWGVTdE54RjZQTGtUY2VEd2pTRVVtTG9xNENZcE9wRUo2N0kyTEMxYTA?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T11:00:00Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": "CBS News",
+                "title": "Candy handed out by New Zealand charity contains \"potentially lethal levels of methamphetamine,\" police say - CBS News",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEdtTHhyNFBXXzNQMElyam5LRW5QNzNad1dPLS0tUzJkSGhZMDhkaHpoMHh2WTV6UGp6dTFJd1hiMmdmS1pYZ0dQNjJPdG1TSzZnRmxQWFFnaTZ1ajRXTE1GTFZURk5YejVLamUwWjBxZGhiMDRFOUt6YmRHMENSX045RXpjUWY2UzhTNkV0OXBEYWc4UHZvUW5LZ3pud9IBowFBVV95cUxOcjNMVThUU3RtZFkyb0VCWDJxNXk2dHVfNUwyRnpFRHRaT043QXBjYy1CQW1GNEp6dVotNmxKZWZpeWZyY2hTbklFcnlmZWVaQ1U5cG9INkJjQmstUl9GZE5VRmJLS19KYlQ2djlVRDBLb1RISExuaWt6emx0OGZGMUo3VGNSUk1MWGxSd01HMXRfYjAzcFFaYTJ4dHMxS3hVNFRR?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-08-14T10:53:00Z",
+                "content": null
+            }
+        ]
+    }
