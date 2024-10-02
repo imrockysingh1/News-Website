@@ -1,1 +1,0 @@
-let apiKey =  "https://newsapi.org/v2/everything?q=bitcoin&apiKey=0efd3e35bdd54e928fcf9c93d90c9079&pagesize=20&page=1"
