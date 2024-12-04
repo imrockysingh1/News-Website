@@ -12,7 +12,7 @@ const NewsItems = (props)=> {
             <h5 className="card-title">{title}</h5>
             <p className="card-text">{description}</p>
             <p className="card-text"><small className="text-danger">Last updated {new Date(date).toGMTString()} By {!author?"Unknown":author}</small></p>
-            <a href={url} target='_blank' className="btn btn-sm btn-primary">More detail</a>
+            <a href={url} target='_self' className="btn btn-sm btn-primary">More detail</a>
           </div>
 </div>
       </div>
